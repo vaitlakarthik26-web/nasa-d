@@ -1,0 +1,6 @@
+{
+  "name": "Abandoned but not Forgotten",
+  "description": "An interactive 3D NASA space exploration museum documenting historic lunar and Martian mission equipment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
